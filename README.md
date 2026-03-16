@@ -23,7 +23,3 @@ Whether you're creating content, filming a presentation, or recording social med
 No memorizing. No awkward pauses. Just natural, confident videos.
 
 Designed with simplicity in mind — inspired by Apple’s design principles — so you can start recording in seconds.
-
-## Keywords
-
-video, camera, vlog, presentation, speech, content, creator, reels, tiktok, youtube, prompter, subtitles, captions
